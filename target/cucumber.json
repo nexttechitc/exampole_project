@@ -1,0 +1,108 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "jhjkhkjhkj;title-of-your-scenario-outline",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "I want to write a step with \u003cname\u003e",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "I check for the \u003cvalue\u003e in step",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "I verify the \u003cstatus\u003e in step",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@jahan"
+          }
+        ]
+      }
+    ],
+    "name": "jhjkhkjhkj",
+    "description": "",
+    "id": "jhjkhkjhkj",
+    "keyword": "Feature",
+    "uri": "homepage.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "jhjkhkjhkj;title-of-your-scenario-outline",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "I want to write a step with \u003cname\u003e",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "I check for the \u003cvalue\u003e in step",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "I verify the \u003cstatus\u003e in step",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@j"
+          }
+        ]
+      }
+    ],
+    "name": "jhjkhkjhkj",
+    "description": "",
+    "id": "jhjkhkjhkj",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  }
+]
